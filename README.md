@@ -87,7 +87,7 @@ make all
 <sub>If using WSL and your project is in a Windows folder, use:</sub>
 
 ```bash
-cd "/mnt/c/Users/PC/OneDrive/Desktop/Maulishka's Projects/SystemResourceMonitor"
+cd "/path/to/SystemResourceMonitor"
 make all
 ```
 
@@ -276,10 +276,10 @@ Please follow conventional commit messages and include a brief description of ch
 ---
 
 ## 📜 License <img src="https://img.icons8.com/color/32/certificate.png" width="24"/>
-Specify your preferred license (e.g., MIT) and add a `LICENSE` file to the repository.
+This project is licensed under the [MIT License](LICENSE) – see the LICENSE file for details.
 
 ---
 
 ## ✨ Credits / Authors <img src="https://img.icons8.com/color/32/conference-call.png" width="24"/>
-- Your Name (@yourhandle)
+- Maulishka Srivastava @Maulishka04
 - Thanks to the Linux `/proc` documentation and the C/C++ standard libraries
