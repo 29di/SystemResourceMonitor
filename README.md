@@ -16,7 +16,7 @@
 
 ---
 
-## 🧩 Project Overview <img src="https://img.icons8.com/color/32/overview-pages.png" width="24"/>
+## 🧩 Project Overview
 This project demonstrates core Operating Systems concepts through two practical modules:
 - A real-time, multi-threaded Resource Monitor in C that reads Linux `/proc` data, logs metrics, and publishes summaries via POSIX message queues.
 - A Process Scheduler Simulator in C++ implementing classic algorithms with metrics and Gantt chart output.
