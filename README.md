@@ -306,5 +306,5 @@ This project is licensed under the [MIT License](LICENSE) – see the LICENSE fi
 
 ## ✨ Credits / Authors
 
-- Maulishka Srivastava @Maulishka04
+- Divya Sinha
 - Thanks to the Linux `/proc` documentation and the C/C++ standard libraries
